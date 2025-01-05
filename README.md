@@ -1,1 +1,1 @@
-# Replit-Hackathon
+# ReplitHackathon
